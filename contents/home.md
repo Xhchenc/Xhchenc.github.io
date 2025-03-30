@@ -1,20 +1,19 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor's degree in Economics at the School of Economics, Guangxi University, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>xhchenc@163.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Guangxi University**, Doctor of Economics (2022 – Now)  
+• Major Courses: 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Zhejiang Gongshang University**, MEcons(Master of Economics) (2018 – 2021)  
+• Major Courses: 
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Zhejiang Gongshang University**, B.Sc(Bachelor of Science) (2014 – 2018)  
+• Major Courses: 
 
 #### Research Interests  
-XX, XX, XX, XX.
+Digital economy, Capital markets, Corporate finance.
