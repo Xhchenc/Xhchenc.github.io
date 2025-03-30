@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I'm currently pursuing a Doctor's degree in Economics at the School of Economics, Guangxi University, China.
 
