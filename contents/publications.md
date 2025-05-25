@@ -1,3 +1,29 @@
+### **参与的项目**  
+**2021年2月 – 2022年8月 | 浙江省数量经济学会**  
+
+**中国地区金融风险指数构建与应用研究** （2018）
+- 批准立项部门：全国哲学社会科学工作办公室
+- 职责：项目参与人，负责每季度温州地区民间借贷样本数据维护和统计分析
+
+**温州金融综合改革及“融资畅通工程”满意度评估**（2020）
+- 批准立项部门：温州市金融办
+- 职责：项目参与人，温州金融及“融资畅通工程”满意度访谈调查和问卷调查
+
+**慈溪市中小企业金融指数** （2020）
+- 批准立项部门：慈溪市金融办
+- 职责：项目参与人，指数数据清洗和指数开发计算
+
+**小微金融指数——台州样本** （2022）
+- 批准立项部门：台州市人民政府
+- 职责：每季度数据采集和指数维护
+
+### **发表论文**  
+Web of Science ResearcherID: MTD-5151-2025
+
+ORCID: https://orcid.org/0000-0002-4719-4354
+
+Google Scholar: https://scholar.google.com.hk/citations?user=9OVyJrcAAAAJ
+
 - Chen, X., & Shen, S. (2024). Probability causal inference of interest rate fluctuations: Evidence from private credit in emerging markets. Technological Forecasting and Social Change, 200, 123163. https://doi.org/10.1016/j.techfore.2023.123163
 
 - Chen, L., Shen, Q., Yu, X., & Chen, X. (2024). Knowledge spillovers along the sustainable supply chain of China’s listed companies: The role of long-term orientation. Journal of Innovation & Knowledge, 9(2), 100478. https://doi.org/10.1016/j.jik.2024.100478
