@@ -2,7 +2,7 @@
 I'm currently pursuing a Doctor's degree in Economics at the School of Economics, Guangxi University, China.
 
 #### Email  
-<code>xhchenc@163.com</code>  
+<code>xhchenc@aliyun.com</code>  
 
 #### Education  
 **Guangxi University**, Doctor of Economics (2022 – Now)  
