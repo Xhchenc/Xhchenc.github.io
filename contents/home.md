@@ -15,4 +15,4 @@ I'm currently pursuing a Doctor's degree in Economics at the School of Economics
 • Major Courses: 
 
 #### Research Interests  
-Digital economy, Capital markets, Corporate finance.
+Digital economy, Capital markets, Corporate finance, Corporate governance.
