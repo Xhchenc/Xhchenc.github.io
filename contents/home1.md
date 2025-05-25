@@ -1,18 +1,18 @@
 
-I'm currently pursuing a Doctor's degree in Economics at the School of Economics, Guangxi University, China.
+目前在广西大学经济学院攻读应用经济学博士。
 
-#### Email  
+#### 邮箱  
 <code>xhchenc@aliyun.com</code>  
 
-#### Education  
-**Guangxi University**, Doctor of Economics (2022 – Now)  
-• Major Courses: 
+#### 教育  
+**广西大学**, 应用经济学博士 (2022至今)  
+• 专业方向：资本市场、公司金融
 
-**Zhejiang Gongshang University**, MEcons(Master of Economics) (2018 – 2021)  
-• Major Courses: 
+**浙江工商大学**, 应用经济学硕士 (2018 – 2021)  
+• 专业方向：经济统计、数量经济
 
-**Zhejiang Gongshang University**, B.Sc(Bachelor of Science) (2014 – 2018)  
-• Major Courses: 
+**浙江工商大学**, 理学学士 (2014 – 2018)  
+• 专业方向：数学与应用数学、数据库应用
 
-#### Research Interests  
-Digital economy, Capital markets, Corporate finance, Corporate governance.
+#### 研究兴趣  
+数字经济，资本市场，公司金融，公司治理等。
