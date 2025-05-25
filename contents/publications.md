@@ -8,9 +8,9 @@
 
 - Liu, H., Cui, C., Chen, X., & Xiu, P. (2023). How can regional integration promote corporate innovation? A peer effect study of R&D expenditure. Journal of Innovation & Knowledge, 8(4), 100444. https://doi.org/10.1016/j.jik.2023.100444
 
-- Jin, X., Ke, Y., & Chen, X. (2022). Credit pricing for financing of small and micro enterprises under government credit enhancement: Leverage effect or credit constraint effect. Journal of Business Research, 138, 185–192. https://doi.org/10.1016/j.jbusres.2021.09.019
-
 - Lin, X., Ribeiro-Navarrete, S., Chen, X., & Xu, B. (2023). Advances in the innovation of management: A bibliometric review. Review of Managerial Science. https://doi.org/10.1007/s11846-023-00667-4
+
+- Jin, X., Ke, Y., & Chen, X. (2022). Credit pricing for financing of small and micro enterprises under government credit enhancement: Leverage effect or credit constraint effect. Journal of Business Research, 138, 185–192. https://doi.org/10.1016/j.jbusres.2021.09.019
 
 - Xu, B., Zhang, S., & Chen, X. (2021). Uncertainty in financing interest rates for startups. Industrial Marketing Management, 94, 150–158. https://doi.org/10.1016/j.indmarman.2020.02.026
 
